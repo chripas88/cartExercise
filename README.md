@@ -20,3 +20,22 @@ Please do not implement anything outside of requirements (e.g database persisten
 Deliverable should be a zip containing the sources of the application. Note that if zip can't be delivered via email due to security/spam filters, please send it over via a public dropbox link, a github link or wetransfer.
 
 # END OF EXERCISE
+
+## Project information
+
+This project was created using React 16 and Redux.
+
+Unit tests were created using jest and enzyme
+
+XML was created using xml2js package.
+
+#### Dependencies:
+* "enzyme": "^3.11.0",
+* "enzyme-adapter-react-16": "^1.15.2",
+* "react": "^16.13.0",
+* "react-dom": "^16.13.0",
+* "react-redux": "^7.2.0",
+* "react-router-dom": "^5.1.2",
+* "react-scripts": "3.4.0",
+* "redux": "^4.0.5",
+* "xml2js": "^0.4.23"
